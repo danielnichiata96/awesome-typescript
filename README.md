@@ -282,6 +282,8 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * :octocat: [InDom](https://github.com/constcallid/indom) - <4KB stack-agnostic modern DOM library with automatic cleanup, TypeScript source and type definitions.
 * :octocat: [Bubble Lab](https://github.com/bubblelabai/BubbleLab) - Open Source TypeScript-native workflow automation platform with AI-powered generation, full observability, and exportable code.
 
+* [CiteMe](https://www.citeme.ai/) - AI-powered academic citation generator that searches 11+ databases and formats in 40+ CSL styles. Built with Next.js, TypeScript, and browser extensions.
+
 ### Web/ReactJS
 * :octocat: [facebook/create-react-app](https://facebook.github.io/create-react-app/docs/adding-typescript) Create React apps using typescript with no build configuration
 * :octocat: [Microsoft/TypeScript-React-Starter](https://github.com/Microsoft/TypeScript-React-Starter) A starter template for TypeScript and React with a detailed README describing how to use the two together; based on `create-react-app`
